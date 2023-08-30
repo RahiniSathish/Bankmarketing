@@ -15,7 +15,7 @@ The project is divided into three main tasks:
 
 ## Project Structure
 
-- `data`: Directory containing the dataset used for analysis and modeling.
+- `bank-additional-full.csv`: Directory containing the dataset used for analysis and modeling.
 - `notebooks`: Jupyter notebooks for each project task.
     - `Data Analysis.ipynb`: Notebook containing the data analysis report.
     - `Predictive Modeling.ipynb`: Notebook with the implementation of the predictive model.
